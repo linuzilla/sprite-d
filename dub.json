@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Mac Liu"
+	],
+	"copyright": "Copyright © 2021, Mac Liu",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "sprite"
+}

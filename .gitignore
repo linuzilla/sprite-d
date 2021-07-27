@@ -22,3 +22,12 @@ docs/
 
 # Code coverage
 *.lst
+
+.idea/
+/sprite
+sprite.so
+sprite.dylib
+sprite.dll
+sprite.a
+sprite.lib
+sprite-test-*
